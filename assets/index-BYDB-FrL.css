@@ -1,0 +1,1 @@
+body{margin:0;overflow:hidden}canvas.webgl{z-index:1;outline:none;width:100vw;height:100vh;position:fixed;top:0;left:0}canvas.ui{z-index:10;background:#add8e6;border:2px solid #fff;border-radius:8px;width:150px;height:150px;position:fixed;top:20px;left:20px;box-shadow:0 4px 6px #0000004d}
